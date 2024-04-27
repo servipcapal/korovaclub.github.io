@@ -263,7 +263,7 @@ ol {
 -----------------------*/
 
 .header {
-	background: rgba(194, 118, 32, 0.5);
+	background:#050505;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -273,7 +273,7 @@ ol {
 
 .header.header--normal {
 	position: relative;
-	background: #290849;
+	background: #050505;
 }
 
 .header__logo {

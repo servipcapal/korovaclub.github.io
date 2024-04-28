@@ -264,6 +264,7 @@ ol {
 
 .header {
 	background:#050505;
+	background-image: url(/img/fondo.jpeg);
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -273,7 +274,8 @@ ol {
 
 .header.header--normal {
 	position: relative;
-	background: #050505;
+	background-image: url(/img/fondo.jpeg);
+	/*background: #050505;*/
 }
 
 .header__logo {
@@ -2960,3 +2962,6 @@ ol {
 	margin-top: 160px;
 
   }
+
+  /* boton flotante */
+  

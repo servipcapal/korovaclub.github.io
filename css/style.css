@@ -263,7 +263,7 @@ ol {
 -----------------------*/
 
 .header {
-	background:#050505;
+	/*background:#050505;*/
 	background-image: url(/img/fondo.jpeg);
 	position: absolute;
 	left: 0;

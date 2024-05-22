@@ -171,7 +171,7 @@ ol {
 	text-transform: uppercase;
 	padding: 14px 25px 12px;
 	color: #ffffff;
-	background: #5c00ce;
+	background: #f73210;
 	letter-spacing: 2px;
 }
 
@@ -263,8 +263,8 @@ ol {
 -----------------------*/
 
 .header {
-	/*background:#050505;*/
-	background-image: url(/img/fondo.jpeg);
+	background:#050505;
+	/*background-image: url(/img/fondo.jpeg);*/
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -274,8 +274,8 @@ ol {
 
 .header.header--normal {
 	position: relative;
-	background-image: url(/img/fondo.jpeg);
-	/*background: #050505;*/
+	/*background-image: url(/img/fondo.jpeg);*/
+	background: #050505;
 }
 
 .header__logo {
@@ -566,7 +566,7 @@ ol {
 	font-size: 15px;
 	color: #ffffff;
 	display: inline-block;
-	background: #5c00ce;
+	background: #f73210;
 	padding: 12px 8px 9px 20px;
 }
 

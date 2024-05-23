@@ -2620,7 +2620,7 @@ ol {
 
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1024px) {
 	.container {
 		max-width: 1170px;
 	}
@@ -2628,7 +2628,7 @@ ol {
 
 /* Medium Device = 1200px */
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
 	.header__menu ul li {
 		margin-right: 18px;
 	}
@@ -2650,7 +2650,7 @@ ol {
 
 /* Tablet Device = 768px */
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
 	.header__right__social {
 		display: none;
 	}

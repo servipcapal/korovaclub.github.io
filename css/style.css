@@ -2963,5 +2963,37 @@ ol {
 
   }
 
-  /* boton flotante */
-  
+.carrusel{
+	display: flex;
+	flex-wrap: nowrap;
+	overflow: scroll x;
+	justify-content: center;
+	align-content: center;
+	
+}
+
+.elemento{	
+	padding: 30px 30px;	
+	align-content: center;
+	flex: 1 0 auto;
+	margin: 0 80px;
+	/*background: rgb(2,0,36);*/
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,15,121,1) 35%, rgba(0,212,255,1) 100%);
+	width: 50px;
+	height: 140px;
+	text-align: center;
+}
+.container-emisora{
+	margin-top: 30px;
+	box-shadow: 10px 10px 10px 10px rgba(32,32,32,0.3);
+	display: flexbox;
+	padding-top: 150px;	
+
+}
+.separar1 {
+    box-shadow: 2px 2px 4px 0 rgba(20, 20, 20, 0.3);
+}
+.interior1 {
+    box-shadow: inset 1px 1px 4px 0 rgba(20, 20, 20, 0.2);
+}

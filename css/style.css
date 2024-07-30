@@ -2989,11 +2989,18 @@ ol {
 	box-shadow: 10px 10px 10px 10px rgba(32,32,32,0.3);
 	display: flexbox;
 	padding-top: 150px;	
-
 }
 .separar1 {
     box-shadow: 2px 2px 4px 0 rgba(20, 20, 20, 0.3);
 }
 .interior1 {
     box-shadow: inset 1px 1px 4px 0 rgba(20, 20, 20, 0.2);
+}
+.aniversario{
+	margin-top: 10px;
+	position: relative;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+	font-family: monospace;
 }
